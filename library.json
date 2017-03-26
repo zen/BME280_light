@@ -18,7 +18,7 @@
   {
       "type": "git",
       "url": "https://github.com/EnviroMonitor/BME280_light.git"
-  }
+  },
   "frameworks": "arduino",
   "platforms": [
     "espressif8266"
